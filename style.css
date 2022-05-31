@@ -13,17 +13,23 @@ html, body {
 .img1 {
     background: url(img/cover.jpg);
     min-height: 100%;
-  
+    position: relative;
+    opacity: 0.85;
+    background-position: ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
 }
 .img2 {
     background: url(img/mesadetrabajo.jpg);
-    min-height: 60%;
+    min-height: 100%;
 }
 .img3 {
     background: url(img/photooutput.jpg);
     min-height: 100%;
 }
-.img1, .img2, .img3 {
+ .img2, .img3 {
     position: relative;
     opacity: 0.85;
     background-position: center;
@@ -31,6 +37,7 @@ html, body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     width: 100%;
+    
 
 }
 section {
