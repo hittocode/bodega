@@ -22,18 +22,24 @@ html, body {
 .img2 {
     background: url(img/mesadetrabajo.jpg);
     min-height: 100%;
-}
-.img3 {
-    background: url(img/photooutput.jpg);
     min-height: 100%;
-}
- .img2, .img3 {
-    position: relative;
-    background-position: center;
+    position: relative;   
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     width: 100%;
+}
+.img3 {
+    background: url(img/photooutput.jpg);
+    min-height: 100%;
+    min-height: 100%;
+    position: relative;   
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+ 
     
 
 }
