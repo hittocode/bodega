@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open=Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Dancing+Script&display=swap');
 
 html, body {
     height: 100%;
@@ -55,6 +55,12 @@ section {
     width: 100%;
     text-transform: uppercase;
     letter-spacing: 8px;
+}
+
+.vinos{ 
+    padding: 40px;
+    font-size:48px;
+    font-family: 'Dancing Script', cursive;
 }
 
 @media (max-width: 768px) {
