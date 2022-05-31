@@ -42,9 +42,8 @@ html, body {
  
     
 
-}
 section {
-    padding: 50px 80px;
+    padding: 30px 80px;
     
 }
 .heading {
@@ -57,8 +56,8 @@ section {
     letter-spacing: 8px;
 }
 
-.vinos{ 
-    padding: 40px;
+.vinos { 
+    padding: 30px;
     font-size:48px;
     font-family: 'Dancing Script', cursive;
 }
